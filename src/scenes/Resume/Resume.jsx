@@ -11,7 +11,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://raw.githubusercontent.com/prajeshy/Awesome-Profile-README-templates/master/Work%20Experience-2.pdf';
+  'https://raw.githubusercontent.com/prajeshy/Awesome-Profile-README-templates/master/Work%20Experience%202.pdf';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
