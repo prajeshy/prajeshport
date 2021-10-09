@@ -1,3 +1,48 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+Computer Networking:
+HTTP - TCP/IP Model
+Linux - Command line
+Web Application technologies.
+Networking basics
+
+
+Programming:
+Web programming languages are JavaScript, HTML, and CSS. Just being able to read basic syntax is more than
+enough.
+OWASP Web Top 10.
+OWASP Mobile Top 10.
+
+
+Books:
+Web Application Hacker's Handbook
+The Mobile Application Hacker's Handbook
+Mastering Modern Web Penetration Testing
+https://www.bugcrowd.com/hackers/bugcrowd-university
+/private/mastering-modern-web-penetration-prakhar-prasad.pdf
+/private/Metasploitable_SetUpGuide.pdf
+
+Tools:
+Assetfinder - https://github.com/tomnomnom/assetfinder
+Httprobe/httpx - https://github.com/tomnomnom/httprobe
+XSScrapy - https://github.com/DanMcInerney/xsscrapy
+Dirsearch - https://github.com/maurosoria/dirsearch
+MOBSF - https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+
+Hands on:
+BWapp
+DVWA - https://dvwa.co.uk/
+OWASP Webgoat
+PentesterLab - https://pentesterlab.com
+Hacker101 - https://www.hacker101.com/
+Hackthebox - https://www.hackthebox.eu/
+https://xss-game.appspot.com/
+
+
+Platform:
+Hackerone - https://hackerone.com
+Bugcrowd - https://www.bugcrowd.com
+Synack - https://www.synack.com
+Yogosha - https://yogosha.com
+
+
+
