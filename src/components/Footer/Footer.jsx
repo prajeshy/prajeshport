@@ -1,5 +1,6 @@
 import s from './Footer.module.scss';
 import { AiFillGithub } from 'react-icons/ai';
+import { AiTwotoneMail } from 'react-icons/ai';
 import {
   FaFacebookSquare,
   FaLinkedinIn,
@@ -33,6 +34,16 @@ const Footer = () => {
                 <AiFillGithub />
               </a>
             </li>
+            <li className={s.socialLink}>
+            <a
+              href="mailto:yeotikar@prajesh.me"
+              target="_blank"
+              rel="noreferrer"
+              className={s.socialIcon}
+            >
+              <AiTwotoneMail />
+            </a>
+          </li>
             <li>
               <a
                 href="https://www.instagram.com/prajesh_y"
