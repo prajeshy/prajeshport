@@ -1,6 +1,7 @@
 import s from './IntroSection.module.scss';
 import avatar from '../../../assets/avatar.svg';
 import { AiFillGithub } from 'react-icons/ai';
+import { AiTwotoneMail } from 'react-icons/ai';
 import {
   FaFacebookSquare,
   FaLinkedinIn,
@@ -74,6 +75,16 @@ const IntroSection = () => {
               className={s.socialIcon}
             >
               <AiFillGithub />
+            </a>
+          </li>
+           <li className={s.socialLink}>
+            <a
+              href="mailto:yeotikar@prajesh.me"
+              target="_blank"
+              rel="noreferrer"
+              className={s.socialIcon}
+            >
+              <AiTwotoneMail />
             </a>
           </li>
           <li className={s.socialLink}>
