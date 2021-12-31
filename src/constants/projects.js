@@ -1,6 +1,45 @@
 export const PROJECTS = [
   {
     id: '1',
+    title: 'Getting Started with Vulnerability Analysis and Management',
+    description:
+      '',
+    image: {
+      // src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
+      src: 'https://raw.githubusercontent.com/prajeshy/certs/main/a616ff68-6131-4a53-a12b-2d5cfcdf774a.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
+      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+    },
+    technologies: [
+     
+    ],
+  },
+  {
+    id: '2',
+    title: 'In the Trenches: Security Operations Center',
+    description:
+      '',
+    image: {
+      // src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
+      src: 'https://raw.githubusercontent.com/prajeshy/certs/main/529b6744-b61c-4253-b8c2-afd571514981.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
+      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+    },
+    technologies: [
+     
+    ],
+  },
+  
+  {
+    id: '3',
     title: 'Ethical Hacking and Cybersecurity',
     description:
       '',
@@ -19,7 +58,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '2',
+    id: '4',
     title: 'Linux for Network Engineers Practical Linux with GSN3',
     description:
      '',
@@ -37,7 +76,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '3',
+    id: '5',
     title: 'Complete CCNP ENCOR (350-401) Master Class',
     description:
      '',
@@ -55,7 +94,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '4',
+    id: '6',
     title: 'Usable Security',
     description:
       '',
@@ -73,7 +112,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '5',
+    id: '7',
     title: 'Object Orineted Programming in Java',
     description:
       '',
@@ -91,7 +130,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '6',
+    id: '8',
     title: 'Java Programming : Solving Problem using Software',
     description:
     '',
@@ -108,7 +147,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '7',
+    id: '9',
     title: 'C++ : From Beginner to Expert',
     description:
    '',
