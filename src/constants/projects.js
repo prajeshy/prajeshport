@@ -40,6 +40,26 @@ export const PROJECTS = [
   
   {
     id: '3',
+    title: ' Ethical Hacking/Penetration Testing & Bug Bounty Hunting',
+    description:
+      '',
+    image: {
+      // src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
+      src: 'https://raw.githubusercontent.com/prajeshy/certs/main/UC-84de6b2d-1729-4991-987e-051bbb90592c.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
+      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+    },
+    technologies: [
+     
+    ],
+  },
+  
+  {
+    id: '4',
     title: 'Ethical Hacking and Cybersecurity',
     description:
       '',
@@ -58,7 +78,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '4',
+    id: '5',
     title: 'Linux for Network Engineers Practical Linux with GSN3',
     description:
      '',
@@ -76,7 +96,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '5',
+    id: '6',
     title: 'Complete CCNP ENCOR (350-401) Master Class',
     description:
      '',
@@ -94,7 +114,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '6',
+    id: '7',
     title: 'Usable Security',
     description:
       '',
@@ -112,7 +132,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '7',
+    id: '8',
     title: 'Object Orineted Programming in Java',
     description:
       '',
@@ -130,7 +150,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '8',
+    id: '9',
     title: 'Java Programming : Solving Problem using Software',
     description:
     '',
@@ -147,7 +167,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '9',
+    id: '10',
     title: 'C++ : From Beginner to Expert',
     description:
    '',
