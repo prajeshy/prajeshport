@@ -76,10 +76,30 @@ export const PROJECTS = [
      
     ],
   },
-    
   
   {
     id: '5',
+    title: 'Google : Crash Course on Python',
+    description:
+      '',
+    image: {
+      // src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
+      src: 'https://raw.githubusercontent.com/prajeshy/certs/main/Coursera%2038GSWN3CU64U.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
+      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+    },
+    technologies: [
+     
+    ],
+  },
+    
+  
+  {
+    id: '6',
     title: 'Ethical Hacking and Cybersecurity',
     description:
       '',
@@ -98,7 +118,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '6',
+    id: '7',
     title: 'Linux for Network Engineers Practical Linux with GSN3',
     description:
      '',
@@ -116,7 +136,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '7',
+    id: '8',
     title: 'Complete CCNP ENCOR (350-401) Master Class',
     description:
      '',
@@ -134,7 +154,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '8',
+    id: '9',
     title: 'Usable Security',
     description:
       '',
@@ -152,7 +172,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '9',
+    id: '10',
     title: 'Object Orineted Programming in Java',
     description:
       '',
@@ -170,7 +190,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '10',
+    id: '11',
     title: 'Java Programming : Solving Problem using Software',
     description:
     '',
@@ -187,7 +207,7 @@ export const PROJECTS = [
     ],
   },
   {
-    id: '11',
+    id: '12',
     title: 'C++ : From Beginner to Expert',
     description:
    '',
